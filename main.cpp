@@ -11,7 +11,5 @@ int main() {
     {
         cout<<"numero non primo"<<endl;
     }
-
-
-    return 0;
+ return 0;
 }
