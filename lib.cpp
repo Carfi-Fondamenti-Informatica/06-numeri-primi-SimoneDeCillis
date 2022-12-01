@@ -19,4 +19,3 @@ bool funzione (int n) {
 
 }
 
-
